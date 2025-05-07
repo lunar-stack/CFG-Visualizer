@@ -1,0 +1,2 @@
+gcc main.c -o output_executable -lraylib -lm
+./output_executable 10

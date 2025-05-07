@@ -1,0 +1,10 @@
+S=>A|B|C|D
+A=>add(P,P)|add(P,Q)|add(Q,P)|add(Q,Q)|B|C|D
+B=>mul(P,P)|mul(P,Q)|mul(Q,P)|mul(Q,Q)|A|C|D
+C=>sin(P,P)|sin(P,Q)|sin(Q,P)|sin(Q,Q)|A|B|D
+D=>cos(P,P)|cos(P,Q)|cos(Q,P)|cos(Q,Q)|A|B|C
+P=>A|I0.XYYYYY|B|I0.XYYYYY|C|I0.XYYYYY|D|I0.XYYYYY
+Q=>x|y|A|B|C|D|x|y
+I=>-|
+X=>1|2|3|4|5|6|7|8|9|
+Y=>1|2|3|4|5|6|7|8|9|0
