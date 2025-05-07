@@ -65,6 +65,8 @@ typedef struct Production {
 
 typedef Production** Grammar;   // Set of Productions = Grammar
 
+
+
 Grammar read_productions(FILE* fp, int n) {
 
     int pro_count = 0;
