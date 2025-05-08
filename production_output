@@ -1,1 +1,1 @@
-mul(mul(cos(-0.355478,mul(0.698450,mul(0.340973,y))),add(y,sin(y,mul(-0.116577,cos(add(cos(y,-0.636156),-0.56439),cos(add(sin(mul(y,0.733958),x),0.530965),add(-0.170359,mul(-0.317848,y)))))))),x)
+add(x,cos(cos(0.723392,mul(mul(cos(x,sin(cos(y,y),-0.769818)),cos(y,cos(cos(mul(x,-0.107297),0.576403),cos(add(0.285169,sin(x,-0.601567)),-0.318360)))),x)),cos(y,cos(sin(add(x,y),sin(add(y,x),add(mul(sin(x,x),x),0.845216))),cos(x,-0.782563)))))
