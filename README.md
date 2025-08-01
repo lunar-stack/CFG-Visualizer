@@ -6,6 +6,7 @@ thank https://github.com/tsoding/ for streaming, Got me really inspired to do th
 TO GENERATE STATIC OUTPUT:
 
 >>run main.c file with command: gcc main.c -o output_executable -lraylib -lm
+
 >>Execute with : ./output_executable 10
 
 to get different output/RandomArt use execute command:
