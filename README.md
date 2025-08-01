@@ -10,8 +10,11 @@ TO GENERATE STATIC OUTPUT:
 >>Execute with : ./output_executable 10
 
 to get different output/RandomArt use execute command:
+
 >> ./output_executable 10 -f
+
 >>  ./output_executable 10 -f2
+
 >> ./output_executable 10 -p
 
 
